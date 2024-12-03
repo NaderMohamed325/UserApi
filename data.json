@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "name": "Nader Mohamed",
+      "email": "nadoorexample@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Mohamed ",
+      "email": "examplemohamed301@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Ebrahim ",
+      "email": "hema301@gmail.com",
+      "id": 5
+    }
+  ],
+  "tours": [
+    {
+      "id": 1,
+      "name": "Tour A",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Tour B",
+      "price": 150
+    }
+  ]
+}
